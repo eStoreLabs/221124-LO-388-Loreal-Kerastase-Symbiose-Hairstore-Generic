@@ -560,12 +560,19 @@ body {
   }
 }
 @media screen and (min-width: 960px) {
-  #es-kerastase.es-kerastase .es-kv__intro {
-    font-size: 38px;
+  #es-kerastase.es-kerastase .es-kv__logo {
+    margin-top: 20px;
+  }
+  #es-kerastase.es-kerastase .es-kv__subtitle {
+    font-size: 28px;
+  }
+  #es-kerastase.es-kerastase .es-kv__text {
+    font-size: 28px;
     margin-bottom: 20px;
   }
   #es-kerastase.es-kerastase .es-kv__title {
-    font-size: 94px;
+    font-size: 74px;
+    margin-top: 20px;
   }
   #es-kerastase.es-kerastase .es-kv__title span {
     font-size: 105px;

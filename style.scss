@@ -505,12 +505,19 @@ body {
 
   @media screen and (min-width: 960px) {
     .es-kv {
-      &__intro {
-        font-size: 38px;
+      &__logo{
+        margin-top: 20px;
+      }
+      &__subtitle{
+        font-size: 28px;
+      }
+      &__text {
+        font-size: 28px;
         margin-bottom: 20px;
       }
       &__title {
-        font-size: 94px;
+        font-size: 74px;
+        margin-top: 20px;
         span {
           font-size: 105px;
         }
